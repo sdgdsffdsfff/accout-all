@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accout-all.iml" filepath="$PROJECT_DIR$/accout-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accout-captcha/accout-captcha.iml" filepath="$PROJECT_DIR$/accout-captcha/accout-captcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accout-email/accout-email.iml" filepath="$PROJECT_DIR$/accout-email/accout-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accout-persist/accout-persist.iml" filepath="$PROJECT_DIR$/accout-persist/accout-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accout-web/accout-web.iml" filepath="$PROJECT_DIR$/accout-web/accout-web.iml" />
+    </modules>
+  </component>
+</project>

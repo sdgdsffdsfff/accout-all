@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="accout-web:war">
+    <output-path>$PROJECT_DIR$/accout-web/target</output-path>
+    <root id="archive" name="accout.war">
+      <element id="artifact" artifact-name="accout-web:war exploded" />
+    </root>
+  </artifact>
+</component>

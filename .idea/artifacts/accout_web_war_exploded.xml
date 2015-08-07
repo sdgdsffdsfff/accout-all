@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="accout-web:war exploded">
+    <output-path>$PROJECT_DIR$/accout-web/target/accout</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="accout-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="accout-persist-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="accout-persist" />
+          </element>
+          <element id="archive" name="accout-capcha-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="accout-captcha" />
+          </element>
+          <element id="archive" name="accout-email-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="accout-email" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/accout-web/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="accout-web/web/Web" />
+    </root>
+  </artifact>
+</component>
